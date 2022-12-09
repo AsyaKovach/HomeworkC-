@@ -36,5 +36,5 @@ else
 {
   Console.WriteLine($"False");
 }
-return a;
+return arg1;
 }
